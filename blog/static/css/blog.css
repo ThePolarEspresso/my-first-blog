@@ -1,3 +1,8 @@
 h1 a, h2 a {
     color: #5DAE80;
+    font-family: 'lobster';
+}
+
+body {
+    padding-left: 15px;
 }
